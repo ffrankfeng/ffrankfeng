@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </p>
 <!-- <p align="center">
   <a href="https://github.com/ffrankfeng" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NYfuxuyu&layout=compact)" alt="NYfuxuyu's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffrankfeng&layout=compact)" alt="NYfuxuyu's Stats" >
   </a>
 </p> -->
 
@@ -37,21 +37,21 @@ Here are some ideas to get you started:
 
 **Languages and Frameworks**
 
-<code><img height="20" src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fblog.sudobits.com%2Fwp-content%2Fuploads%2F2011%2F05%2Fjava-logo.jpg&refer=http%3A%2F%2Fblog.sudobits.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1643801346&t=d8e0dc75a14152858c1bf554e5b47eda" alt="Java" title="Java"></code>
-<code><img height="20" src="https://pic.imgdb.cn/item/620f377c2ab3f51d91978f89.png" alt="C++" title="C++"></code>
-<code><img height="20" src="https://pic.imgdb.cn/item/620f379a2ab3f51d9197b826.png" alt="Python" title="Python"></code>
-<code><img height="20" src="https://pic.imgdb.cn/item/620f37ae2ab3f51d9197d2fe.png" alt="Git" title="Git"></code>
-<code><img height="20" src="https://pic.imgdb.cn/item/620f37bc2ab3f51d9197e922.png" alt="Docker" title="Docker"></code>
+<code><img height="20" src="./img/java.jpg" alt="Java" title="Java"></code>
+<code><img height="20" src="./img/c.png" alt="C++" title="C++"></code>
+<code><img height="20" src="./img/python.png" alt="Python" title="Python"></code>
+<code><img height="20" src="./img/git.png" alt="Git" title="Git"></code>
+<code><img height="20" src="./img/docker.png" alt="Docker" title="Docker"></code>
 
 
 
 **Tools and Environments**
 
-<code><img height="20" src="https://img2.baidu.com/it/u=3857448549,2876814811&fm=26&fmt=auto" title="IDEA"></code>
-<code><img height="20" src="https://pic.imgdb.cn/item/62161ccf2ab3f51d91e64b7a.png" alt="VSCode" title="VSCode"></code>
-<code><img height="20" src="https://images.nowcoder.com/images/20180629/0_1530258305740_67F7BB46DE9FC78164CA628F2CE05C37" alt="PyCharm" title="PyCharm"></code>
-<code><img height="20" src="https://pic.imgdb.cn/item/62161cc92ab3f51d91e63840.png" alt="Markdown" title="MarkDown"></code>
-<code><img height="20" src="https://pic.imgdb.cn/item/62161cc92ab3f51d91e63850.png" alt="Matlab" title="Matlab"></code>
-<code><img height="20" src="https://pic.imgdb.cn/item/62161ccf2ab3f51d91e64b6d.png" alt="Ubuntu" title="Ubuntu"></code>
-<code><img height="20" src="https://pic.imgdb.cn/item/62161cc92ab3f51d91e63832.png" alt="Linux" title="Linux"></code>
+<code><img height="20" src="./img/idea.png" title="IDEA"></code>
+<code><img height="20" src="./img/vscode.png" alt="VSCode" title="VSCode"></code>
+<code><img height="20" src="./img/pycharm.png" alt="PyCharm" title="PyCharm"></code>
+<code><img height="20" src="./img/md.png" alt="Markdown" title="MarkDown"></code>
+<code><img height="20" src="./img/matlab.png" alt="Matlab" title="Matlab"></code>
+<code><img height="20" src="./img/ubuntu.png" alt="Ubuntu" title="Ubuntu"></code>
+<code><img height="20" src="./img/linux.png" alt="Linux" title="Linux"></code>
 <br>
