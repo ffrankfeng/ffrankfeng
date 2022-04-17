@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 
 <p align="center">
 <!--     <a href="https://github.com/ffrankfeng" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NYfuxuyu&layout=compact)" alt="Fr00Bu9's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffrankfeng&layout=compact)" alt="ffrankfeng's Stats" >
   </a> -->
   <a href="https://github.com/ffrankfeng" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=NYfuxuyu&theme=default&show_icons=true" alt="Fr00Bu9's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=ffrankfeng&theme=default&show_icons=true" alt="ffrankfeng's Stats" >
   </a>
 </p>
 <!-- <p align="center">
   <a href="https://github.com/ffrankfeng" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffrankfeng&layout=compact)" alt="NYfuxuyu's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffrankfeng&layout=compact)" alt="ffrankfeng's Stats" >
   </a>
 </p> -->
 
